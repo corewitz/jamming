@@ -1,1 +1,1 @@
-Music player using React and Spotify API
+playlist creator using React and Spotify API
